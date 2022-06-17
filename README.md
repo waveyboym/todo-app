@@ -1,5 +1,5 @@
 # todo-app
-link to quick run of the game: https://onlinegdb.com/nsKGQdExo (click the run button in order to run the file)
+link to quick run of the app: https://onlinegdb.com/nsKGQdExo (click the run button in order to run the file)
 
 A todo app using css, javascript and html with a frosted glass interface.
 Functions:
